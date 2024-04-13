@@ -27,5 +27,5 @@ In this challenge, we will be using the knowledge of SparkSQL to determine key m
 Referred to various class activity exercises, got support from Assistant Instructor, and websites: https://scikit-learn.org and https://spark.apache.org/docs/latest/api/python/index.html.
 
 # Files submitted including this README File
--> Home_Sales Folder
+-> Home_Sales Folder <br>
 a. Home_Sales.ipynb (contains the srcipt)
